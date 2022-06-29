@@ -1,5 +1,9 @@
 [
   {
+    "package": "kmscv",
+    "oncran": true
+  },
+  {
     "package": "XLS",
     "oncran": true
   }
