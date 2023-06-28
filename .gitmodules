@@ -1,10 +1,7 @@
 [submodule ".registry"]
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
-	shallow = true
 	branch = HEAD
 [submodule "XLS"]
 	path = XLS
 	url = https://github.com/sametsoekel/extreme-least-squares
-	shallow = true
-	registered = true
